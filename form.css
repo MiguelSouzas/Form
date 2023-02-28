@@ -7,7 +7,7 @@
 }
 
 header {
-  background-color: gray;
+  background-color: black;
 }
 
 h1 {
@@ -15,6 +15,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: aliceblue;
 }
 
 h2 {
