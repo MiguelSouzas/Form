@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: gray;
+}
+
+h1 {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.container {
+  border-radius: 2px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  border: 2px solid gray;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+input {
+  margin: 8px 0px;
+  padding: 12px 20px;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.fButton {
+  background-color: gray;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
